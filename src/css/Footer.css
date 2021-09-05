@@ -1,0 +1,9 @@
+.footer{
+        background: linear-gradient(90deg, rgb(252, 248, 248) 0%, rgb(26, 23, 23) 100%);
+        padding: 20px;
+        margin-top: auto;
+}
+.links{
+    color: rgb(111, 10, 114);
+    margin-right: 10px;
+}

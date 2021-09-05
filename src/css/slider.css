@@ -1,0 +1,17 @@
+.slide{
+    margin-top: 2px ;
+    z-index: 1;
+    background-color: black;
+}
+.carousel-inner img{
+    height: 600px;
+    margin: auto;
+}
+.carousel-item.active{
+    display: flex;
+    justify-content: center;
+}
+.carousel-caption{
+    background-color: black;
+    color: rgb(219, 171, 100);
+}

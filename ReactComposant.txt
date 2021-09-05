@@ -1,0 +1,19 @@
+﻿Composant React:
+    1. Sign Up-Form (Professional/ User )
+    2. Email confirmation 
+    3. Sign In-Form ( As Professional/ As User )
+    4. Home Page ( As Professional/ As User )
+    5. Menu 
+        1. Profile User
+        2. Profile Professional
+        3. All Recipe
+        4. Add Reciepe 
+        5. My Recipe
+        6. My Planning (user)
+        7. My Favorites (user)
+        8. Settings (Profile bis) 
+    1. Notification
+    2. Translate
+    3. Them
+    4. Log out
+        9. Contact
